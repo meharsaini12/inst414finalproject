@@ -1,0 +1,532 @@
+city_mpg,class,combination_mpg,cylinders,displacement,drive,fuel_type,highway_mpg,make,model,transmission,year,price
+21,sport utility vehicle,24,4,2.4,fwd,gas,28,honda,cr-v 2wd,a,2010,8260
+21,sport utility vehicle,23,4,2.4,awd,gas,27,honda,cr-v 4wd,a,2010,8460
+21,sport utility vehicle,24,4,2.4,fwd,gas,28,honda,cr-v 2wd,a,2011,9330
+21,sport utility vehicle,23,4,2.4,awd,gas,27,honda,cr-v 4wd,a,2011,9580
+23,sport utility vehicle,26,4,2.4,fwd,gas,30,honda,cr-v 2wd,a,2012,13532
+22,sport utility vehicle,25,4,2.4,awd,gas,29,honda,cr-v 4wd,a,2012,13922
+23,small sport utility vehicle,26,4,2.4,fwd,gas,30,honda,cr-v 2wd,a,2013,14908
+22,small sport utility vehicle,25,4,2.4,awd,gas,29,honda,cr-v 4wd,a,2013,15109
+23,small sport utility vehicle,26,4,2.4,fwd,gas,30,honda,cr-v 2wd,a,2014,16890
+22,small sport utility vehicle,25,4,2.4,awd,gas,29,honda,cr-v 4wd,a,2014,17009
+27,small sport utility vehicle,29,4,2.4,fwd,gas,33,honda,cr-v 2wd,a,2015,20450
+26,small sport utility vehicle,28,4,2.4,awd,gas,32,honda,cr-v 4wd,a,2015,20615
+26,small sport utility vehicle,29,4,2.4,fwd,gas,32,honda,cr-v 2wd,a,2016,20780
+25,small sport utility vehicle,27,4,2.4,awd,gas,31,honda,cr-v 4wd,a,2016,21689
+26,small sport utility vehicle,28,4,2.4,fwd,gas,32,honda,cr-v fwd,a,2017,25779
+28,small sport utility vehicle,30,4,1.5,fwd,gas,34,honda,cr-v fwd,a,2017,25779
+25,small sport utility vehicle,27,4,2.4,awd,gas,31,honda,cr-v awd,a,2017,24965
+27,small sport utility vehicle,29,4,1.5,awd,gas,33,honda,cr-v awd,a,2017,24965
+26,small sport utility vehicle,28,4,2.4,fwd,gas,32,honda,cr-v fwd,a,2018,23296
+28,small sport utility vehicle,30,4,1.5,fwd,gas,34,honda,cr-v fwd,a,2018,23296
+25,small sport utility vehicle,27,4,2.4,awd,gas,31,honda,cr-v awd,a,2018,26206
+27,small sport utility vehicle,29,4,1.5,awd,gas,33,honda,cr-v awd,a,2018,26206
+26,small sport utility vehicle,28,4,2.4,fwd,gas,32,honda,cr-v fwd,a,2019,26637
+28,small sport utility vehicle,30,4,1.5,fwd,gas,34,honda,cr-v fwd,a,2019,26637
+25,small sport utility vehicle,27,4,2.4,awd,gas,31,honda,cr-v awd,a,2019,24466
+27,small sport utility vehicle,29,4,1.5,awd,gas,33,honda,cr-v awd,a,2019,24466
+28,small sport utility vehicle,30,4,1.5,fwd,gas,34,honda,cr-v fwd,a,2020,24115
+27,small sport utility vehicle,29,4,1.5,awd,gas,32,honda,cr-v awd,a,2020,28417
+40,small sport utility vehicle,38,4,2,awd,gas,35,honda,cr-v hybrid awd,a,2020,31408
+22,sport utility vehicle,26,4,2.4,fwd,gas,32,chevrolet,equinox fwd,a,2010,12000
+20,sport utility vehicle,23,4,2.4,awd,gas,29,chevrolet,equinox awd,a,2010,10990
+17,sport utility vehicle,20,6,3,fwd,gas,25,chevrolet,equinox fwd,a,2010,7995
+17,sport utility vehicle,20,6,3,awd,gas,24,chevrolet,equinox awd,a,2010,9995
+22,sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2011,7700
+20,sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2011,10750
+16,sport utility vehicle,19,6,3,fwd,gas,23,chevrolet,equinox fwd,a,2011,6995
+17,sport utility vehicle,20,6,3,fwd,gas,24,chevrolet,equinox fwd,a,2011,8795
+16,sport utility vehicle,19,6,3,awd,gas,23,chevrolet,equinox awd,a,2011,14456
+16,sport utility vehicle,19,6,3,awd,gas,23,chevrolet,equinox awd,a,2011,11588
+17,sport utility vehicle,20,6,3,fwd,gas,24,chevrolet,equinox fwd,a,2012,12986
+22,sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2012,12995
+17,sport utility vehicle,20,6,3,fwd,gas,24,chevrolet,equinox fwd,a,2012,13990
+20,sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2012,13950
+16,sport utility vehicle,19,6,3,awd,gas,23,chevrolet,equinox awd,a,2012,12400
+16,sport utility vehicle,19,6,3,awd,gas,23,chevrolet,equinox awd,a,2012,11899
+22,sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2012,11625
+20,sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2012,12997
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2013,15500
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2013,12495
+17,small sport utility vehicle,20,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2013,8800
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2013,9988
+17,small sport utility vehicle,20,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2013,12299
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2013,11995
+16,small sport utility vehicle,19,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2013,16402
+16,small sport utility vehicle,19,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2013,14984
+17,small sport utility vehicle,19,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2014,11957
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2014,12610
+17,small sport utility vehicle,20,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2014,13400
+16,small sport utility vehicle,19,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2014,12995
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2014,14999
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2014,13351
+16,small sport utility vehicle,19,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2014,15500
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2014,14389
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2015,14995
+17,small sport utility vehicle,19,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2015,13999
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2015,15505
+16,small sport utility vehicle,19,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2015,16086
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2015,15999
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2015,14880
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2016,14599
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2016,14997
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2016,16300
+22,small sport utility vehicle,26,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2016,17300
+16,small sport utility vehicle,18,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2016,16619
+17,small sport utility vehicle,20,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2016,17366
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2017,19699
+21,small sport utility vehicle,25,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2017,17999
+17,small sport utility vehicle,20,6,3.6,fwd,gas,24,chevrolet,equinox fwd,a,2017,18495
+21,small sport utility vehicle,25,4,2.4,fwd,gas,31,chevrolet,equinox fwd,a,2017,17998
+16,small sport utility vehicle,18,6,3.6,awd,gas,23,chevrolet,equinox awd,a,2017,17999
+20,small sport utility vehicle,23,4,2.4,awd,gas,28,chevrolet,equinox awd,a,2017,20980
+26,small sport utility vehicle,28,4,1.5,fwd,gas,32,chevrolet,equinox fwd,a,2018,23495
+24,small sport utility vehicle,26,4,1.5,awd,gas,30,chevrolet,equinox awd,a,2018,24490
+22,small sport utility vehicle,25,4,2,fwd,gas,29,chevrolet,equinox fwd,a,2018,22991
+22,small sport utility vehicle,24,4,2,awd,gas,28,chevrolet,equinox awd,a,2018,25751
+28,small sport utility vehicle,32,4,1.6,fwd,diesel,39,chevrolet,equinox fwd,a,2018,24500
+28,small sport utility vehicle,32,4,1.6,awd,diesel,38,chevrolet,equinox awd,a,2018,31735
+22,small sport utility vehicle,25,4,2,fwd,gas,29,chevrolet,equinox fwd,a,2019,24141
+26,small sport utility vehicle,28,4,1.5,fwd,gas,32,chevrolet,equinox fwd,a,2019,21534
+25,small sport utility vehicle,27,4,1.5,awd,gas,30,chevrolet,equinox awd,a,2019,21374
+22,small sport utility vehicle,24,4,2,awd,gas,28,chevrolet,equinox awd,a,2019,26145
+28,small sport utility vehicle,32,4,1.6,awd,diesel,38,chevrolet,equinox awd,a,2019,24541
+28,small sport utility vehicle,32,4,1.6,fwd,diesel,39,chevrolet,equinox fwd,a,2019,23528
+26,small sport utility vehicle,28,4,1.5,fwd,gas,31,chevrolet,equinox fwd,a,2020,27630
+22,small sport utility vehicle,25,4,2,fwd,gas,29,chevrolet,equinox fwd,a,2020,24890
+25,small sport utility vehicle,27,4,1.5,awd,gas,30,chevrolet,equinox awd,a,2020,27086
+22,small sport utility vehicle,24,4,2,awd,gas,28,chevrolet,equinox awd,a,2020,26319
+16,sport utility vehicle,18,6,3.7,rwd,gas,21,jeep,grand cherokee 2wd,a,2010,9900
+14,sport utility vehicle,16,8,5.7,rwd,gas,20,jeep,grand cherokee 2wd,a,2010,5991
+15,sport utility vehicle,17,6,3.7,4wd,gas,20,jeep,grand cherokee 4wd,a,2010,8500
+13,sport utility vehicle,15,8,5.7,4wd,gas,19,jeep,grand cherokee 4wd,a,2010,9999
+12,sport utility vehicle,13,8,6.1,4wd,gas,16,jeep,grand cherokee srt8 awd,a,2010,8999
+14,sport utility vehicle,16,8,5.7,rwd,gas,20,jeep,grand cherokee 2wd,a,2011,11463
+16,sport utility vehicle,18,6,3.6,rwd,gas,22,jeep,grand cherokee 2wd,a,2011,12595
+14,sport utility vehicle,15,8,5.7,4wd,gas,19,jeep,grand cherokee 4wd,a,2011,12988
+16,sport utility vehicle,18,6,3.6,4wd,gas,22,jeep,grand cherokee 4wd,a,2011,11975
+16,sport utility vehicle,18,6,3.6,rwd,gas,22,jeep,grand cherokee 2wd,a,2011,12488
+16,sport utility vehicle,18,6,3.6,4wd,gas,22,jeep,grand cherokee 4wd,a,2011,12564
+17,sport utility vehicle,19,6,3.6,rwd,gas,23,jeep,grand cherokee 2wd,a,2012,12888
+16,sport utility vehicle,19,6,3.6,awd,gas,23,jeep,grand cherokee 4wd,a,2012,12900
+13,sport utility vehicle,15,8,5.7,4wd,gas,20,jeep,grand cherokee 4wd,a,2012,16581
+12,sport utility vehicle,14,8,6.4,4wd,gas,18,jeep,grand cherokee srt8 4wd,a,2012,16991
+14,sport utility vehicle,16,8,5.7,rwd,gas,20,jeep,grand cherokee 2wd,a,2012,15998
+17,standard sport utility vehicle,19,6,3.6,rwd,gas,23,jeep,grand cherokee 2wd,a,2013,19500
+16,standard sport utility vehicle,19,6,3.6,4wd,gas,23,jeep,grand cherokee 4wd,a,2013,12998
+14,standard sport utility vehicle,16,8,5.7,rwd,gas,20,jeep,grand cherokee 2wd,a,2013,18662
+13,standard sport utility vehicle,15,8,5.7,4wd,gas,20,jeep,grand cherokee 4wd,a,2013,17600
+12,standard sport utility vehicle,14,8,6.4,4wd,gas,18,jeep,grand cherokee srt8,a,2013,18450
+13,standard sport utility vehicle,15,8,6.4,4wd,gas,19,jeep,grand cherokee srt8,a,2014,13999
+17,standard sport utility vehicle,20,6,3.6,rwd,gas,25,jeep,grand cherokee 2wd,a,2014,19993
+14,standard sport utility vehicle,17,8,5.7,rwd,gas,22,jeep,grand cherokee 2wd,a,2014,16499
+17,standard sport utility vehicle,19,6,3.6,4wd,gas,24,jeep,grand cherokee 4wd,a,2014,24506
+14,standard sport utility vehicle,16,8,5.7,4wd,gas,20,jeep,grand cherokee 4wd,a,2014,25789
+22,standard sport utility vehicle,25,6,3,rwd,diesel,30,jeep,grand cherokee 2wd,a,2014,27099
+21,standard sport utility vehicle,24,6,3,4wd,diesel,28,jeep,grand cherokee 4wd,a,2014,28655
+17,standard sport utility vehicle,20,6,3.6,rwd,gas,25,jeep,grand cherokee 2wd,a,2015,30268
+14,standard sport utility vehicle,17,8,5.7,rwd,gas,22,jeep,grand cherokee 2wd,a,2015,29899
+17,standard sport utility vehicle,19,6,3.6,4wd,gas,24,jeep,grand cherokee 4wd,a,2015,28109
+13,standard sport utility vehicle,15,8,6.4,4wd,gas,19,jeep,grand cherokee srt8 4wd,a,2015,28799
+14,standard sport utility vehicle,16,8,5.7,4wd,gas,20,jeep,grand cherokee 4wd,a,2015,30605
+22,standard sport utility vehicle,25,6,3,rwd,diesel,30,jeep,grand cherokee 2wd,a,2015,28905
+21,standard sport utility vehicle,24,6,3,4wd,diesel,28,jeep,grand cherokee 4wd,a,2015,31019
+22,standard sport utility vehicle,25,6,3,rwd,diesel,30,jeep,grand cherokee 2wd,a,2016,30215
+19,standard sport utility vehicle,21,6,3.6,rwd,gas,26,jeep,grand cherokee 2wd,a,2016,30457
+13,standard sport utility vehicle,15,8,6.4,awd,gas,19,jeep,grand cherokee srt8 4wd,a,2016,29456
+21,standard sport utility vehicle,24,6,3,4wd,diesel,28,jeep,grand cherokee 4wd,a,2016,27899
+18,standard sport utility vehicle,21,6,3.6,4wd,gas,25,jeep,grand cherokee 4wd,a,2016,26999
+14,standard sport utility vehicle,17,8,5.7,awd,gas,22,jeep,grand cherokee 4wd,a,2016,30199
+19,standard sport utility vehicle,21,6,3.6,rwd,gas,26,jeep,grand cherokee 2wd,a,2017,30819
+14,standard sport utility vehicle,17,8,5.7,awd,gas,22,jeep,grand cherokee 4wd,a,2017,31469
+13,standard sport utility vehicle,15,8,6.4,awd,gas,19,jeep,grand cherokee srt 4wd,a,2017,32900
+18,standard sport utility vehicle,21,6,3.6,4wd,gas,25,jeep,grand cherokee 4wd,a,2017,35109
+19,standard sport utility vehicle,21,6,3.6,rwd,gas,26,jeep,grand cherokee 2wd,a,2018,28400
+18,standard sport utility vehicle,21,6,3.6,awd,gas,25,jeep,grand cherokee 4wd,a,2018,29600
+13,standard sport utility vehicle,15,8,6.4,awd,gas,19,jeep,grand cherokee srt 4wd,a,2018,34500
+14,standard sport utility vehicle,17,8,5.7,awd,gas,22,jeep,grand cherokee 4wd,a,2018,33199
+11,standard sport utility vehicle,13,8,6.2,awd,gas,17,jeep,grand cherokee trackhawk 4wd,a,2018,32569
+22,standard sport utility vehicle,25,6,3,rwd,diesel,30,jeep,grand cherokee 2wd,a,2018,35689
+21,standard sport utility vehicle,24,6,3,awd,diesel,28,jeep,grand cherokee 4wd,a,2018,29415
+19,standard sport utility vehicle,21,6,3.6,rwd,gas,26,jeep,grand cherokee 2wd,a,2019,30625
+18,standard sport utility vehicle,21,6,3.6,awd,gas,25,jeep,grand cherokee 4wd,a,2019,32500
+14,standard sport utility vehicle,17,8,5.7,awd,gas,22,jeep,grand cherokee 4wd,a,2019,34680
+13,standard sport utility vehicle,15,8,6.4,awd,gas,19,jeep,grand cherokee srt 4wd,a,2019,35600
+11,standard sport utility vehicle,13,8,6.2,awd,gas,17,jeep,grand cherokee trackhawk 4wd,a,2019,38290
+21,standard sport utility vehicle,24,6,3,awd,diesel,28,jeep,grand cherokee 4wd,a,2019,33399
+19,standard sport utility vehicle,21,6,3.6,rwd,gas,26,jeep,grand cherokee 2wd,a,2020,44680
+18,standard sport utility vehicle,21,6,3.6,awd,gas,25,jeep,grand cherokee 4wd,a,2020,45689
+14,standard sport utility vehicle,17,8,5.7,awd,gas,22,jeep,grand cherokee 4wd,a,2020,49200
+13,standard sport utility vehicle,15,8,6.4,awd,gas,19,jeep,grand cherokee srt 4wd,a,2020,46105
+11,standard sport utility vehicle,13,8,6.2,awd,gas,17,jeep,grand cherokee trackhawk 4wd,a,2020,42299
+20,sport utility vehicle,22,4,2.7,fwd,gas,27,toyota,highlander 2wd,a,2010,15481
+18,sport utility vehicle,20,6,3.5,fwd,gas,24,toyota,highlander 2wd,a,2010,12995
+17,sport utility vehicle,19,6,3.5,awd,gas,23,toyota,highlander 4wd,a,2010,17500
+27,sport utility vehicle,26,6,3.3,awd,gas,25,toyota,highlander hybrid 4wd,a,2010,16950
+20,sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2011,17795
+18,sport utility vehicle,20,6,3.5,fwd,gas,24,toyota,highlander 2wd,a,2011,13200
+17,sport utility vehicle,19,6,3.5,awd,gas,22,toyota,highlander 4wd,a,2011,17000
+28,sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid 4wd,a,2011,18780
+20,sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2012,19999
+18,sport utility vehicle,20,6,3.5,fwd,gas,24,toyota,highlander 2wd,a,2012,21985
+17,sport utility vehicle,19,6,3.5,awd,gas,22,toyota,highlander 4wd,a,2012,23500
+28,sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid 4wd,a,2012,20495
+20,small sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2013,25998
+18,small sport utility vehicle,20,6,3.5,fwd,gas,24,toyota,highlander 2wd,a,2013,26818
+17,small sport utility vehicle,19,6,3.5,awd,gas,22,toyota,highlander 4wd,a,2013,21990
+28,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid 4wd,a,2013,24995
+20,small sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2014,34998
+19,small sport utility vehicle,21,6,3.5,fwd,gas,25,toyota,highlander 2wd,a,2014,33070
+18,standard sport utility vehicle,20,6,3.5,awd,gas,24,toyota,highlander awd,a,2014,36972
+27,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd,a,2014,36988
+28,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2014,38900
+20,small sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2015,37385
+19,small sport utility vehicle,21,6,3.5,fwd,gas,25,toyota,highlander 2wd,a,2015,36988
+18,standard sport utility vehicle,20,6,3.5,awd,gas,24,toyota,highlander awd,a,2015,35062
+27,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd,a,2015,39000
+28,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2015,36000
+20,small sport utility vehicle,22,4,2.7,fwd,gas,25,toyota,highlander 2wd,a,2016,39977
+19,small sport utility vehicle,21,6,3.5,fwd,gas,25,toyota,highlander 2wd,a,2016,39999
+18,standard sport utility vehicle,20,6,3.5,awd,gas,24,toyota,highlander awd,a,2016,39931
+27,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd,a,2016,42766
+28,standard sport utility vehicle,28,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2016,40988
+20,small sport utility vehicle,22,4,2.7,fwd,gas,24,toyota,highlander,a,2017,39992
+21,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander le/xle/se/ltd,a,2017,38900
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander,a,2017,43689
+20,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2017,44568
+19,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2017,45315
+29,standard sport utility vehicle,28,6,3.5,awd,gas,27,toyota,highlander hybrid awd,a,2017,43890
+30,standard sport utility vehicle,29,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2017,49000
+20,standard sport utility vehicle,23,6,3.5,awd,gas,27,toyota,highlander awd le,a,2017,39000
+20,small sport utility vehicle,22,4,2.7,fwd,gas,24,toyota,highlander,a,2018,38420
+21,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander le/xle/se/ltd,a,2018,37425
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander,a,2018,36680
+19,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2018,40099
+20,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2018,46790
+20,standard sport utility vehicle,23,6,3.5,awd,gas,27,toyota,highlander awd le,a,2018,45700
+29,standard sport utility vehicle,28,6,3.5,awd,gas,27,toyota,highlander hybrid awd,a,2018,48190
+30,standard sport utility vehicle,29,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2018,44700
+20,small sport utility vehicle,22,4,2.7,fwd,gas,24,toyota,highlander,a,2019,39726
+21,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander le/xle/se/ltd,a,2019,42722
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,toyota,highlander,a,2019,40180
+19,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2019,45665
+20,standard sport utility vehicle,22,6,3.5,awd,gas,26,toyota,highlander awd,a,2019,41000
+20,standard sport utility vehicle,23,6,3.5,awd,gas,27,toyota,highlander awd le,a,2019,42300
+29,standard sport utility vehicle,28,6,3.5,awd,gas,27,toyota,highlander hybrid awd,a,2019,45360
+30,standard sport utility vehicle,29,6,3.5,awd,gas,28,toyota,highlander hybrid awd le plus,a,2019,49000
+20,small sport utility vehicle,23,6,3.5,fwd,gas,28,toyota,highlander,a,2020,48590
+21,small sport utility vehicle,24,6,3.5,fwd,gas,29,toyota,highlander,a,2020,46221
+20,small sport utility vehicle,23,6,3.5,awd,gas,27,toyota,highlander awd,a,2020,47705
+36,small sport utility vehicle,36,4,2.5,fwd,gas,35,toyota,highlander hybrid,a,2020,44290
+35,standard sport utility vehicle,35,4,2.5,awd,gas,35,toyota,highlander hybrid awd,a,2020,45980
+35,standard sport utility vehicle,35,4,2.5,awd,gas,34,toyota,highlander hybrid awd ltd/plat,a,2020,47675
+21,sport utility vehicle,23,4,2.5,fwd,gas,28,ford,escape fwd,a,2010,"9,431"
+22,sport utility vehicle,24,4,2.5,fwd,gas,28,ford,escape fwd,m,2010,"9,431"
+19,sport utility vehicle,21,6,3,fwd,gas,25,ford,escape fwd ffv,a,2010,"9,431"
+34,sport utility vehicle,32,4,2.5,fwd,gas,31,ford,escape hybrid fwd,a,2010,"9,431"
+20,sport utility vehicle,22,4,2.5,4wd,gas,26,ford,escape 4wd,a,2010,"8,433"
+18,sport utility vehicle,20,6,3,4wd,gas,23,ford,escape 4wd ffv,a,2010,"8,433"
+30,sport utility vehicle,29,4,2.5,4wd,gas,27,ford,escape hybrid 4wd,a,2010,"8,433"
+23,sport utility vehicle,25,4,2.5,fwd,gas,28,ford,escape fwd,m,2011,10461
+34,sport utility vehicle,32,4,2.5,fwd,gas,30,ford,escape hybrid fwd,a,2011,10461
+19,sport utility vehicle,21,6,3,fwd,gas,25,ford,escape fwd ffv,a,2011,10461
+21,sport utility vehicle,23,4,2.5,fwd,gas,27,ford,escape fwd,a,2011,10461
+30,sport utility vehicle,29,4,2.5,4wd,gas,27,ford,escape hybrid 4wd,a,2011,10987
+18,sport utility vehicle,20,6,3,awd,gas,23,ford,escape 4wd ffv,a,2011,10987
+20,sport utility vehicle,22,4,2.5,awd,gas,26,ford,escape 4wd,a,2011,10987
+34,sport utility vehicle,32,4,2.5,fwd,gas,30,ford,escape hybrid fwd,a,2012,11569
+19,sport utility vehicle,21,6,3,fwd,gas,25,ford,escape fwd ffv,a,2012,11569
+21,sport utility vehicle,23,4,2.5,fwd,gas,27,ford,escape fwd,a,2012,11569
+23,sport utility vehicle,25,4,2.5,fwd,gas,28,ford,escape fwd,m,2012,11569
+30,sport utility vehicle,29,4,2.5,awd,gas,27,ford,escape hybrid awd,a,2012,11871
+18,sport utility vehicle,20,6,3,awd,gas,23,ford,escape awd ffv,a,2012,11871
+20,sport utility vehicle,23,4,2.5,awd,gas,26,ford,escape awd,a,2012,11871
+22,small sport utility vehicle,25,4,2.5,fwd,gas,30,ford,escape fwd,a,2013,12764
+22,small sport utility vehicle,24,4,2,fwd,gas,29,ford,escape fwd,a,2013,12749
+21,small sport utility vehicle,24,4,2,awd,gas,28,ford,escape awd,a,2013,13349
+22,small sport utility vehicle,25,4,1.6,awd,gas,29,ford,escape awd,a,2013,12949
+23,small sport utility vehicle,26,4,1.6,fwd,gas,32,ford,escape fwd,a,2013,13183
+23,small sport utility vehicle,26,4,1.6,fwd,gas,31,ford,escape fwd,a,2014,14847
+22,small sport utility vehicle,24,4,2,fwd,gas,29,ford,escape fwd,a,2014,14825
+22,small sport utility vehicle,25,4,2.5,fwd,gas,30,ford,escape fwd,a,2014,15384
+21,small sport utility vehicle,24,4,2,awd,gas,28,ford,escape awd,a,2014,15784
+22,small sport utility vehicle,25,4,1.6,awd,gas,29,ford,escape awd,a,2014,15228
+23,small sport utility vehicle,26,4,1.6,fwd,gas,31,ford,escape fwd,a,2015,16878
+21,small sport utility vehicle,24,4,2,fwd,gas,29,ford,escape fwd,a,2015,16878
+21,small sport utility vehicle,25,4,2.5,fwd,gas,30,ford,escape fwd,a,2015,17234
+22,small sport utility vehicle,25,4,1.6,awd,gas,29,ford,escape awd,a,2015,17234
+21,small sport utility vehicle,23,4,2,awd,gas,28,ford,escape awd,a,2015,16878
+23,small sport utility vehicle,26,4,1.6,fwd,gas,31,ford,escape fwd,a,2016,18249
+21,small sport utility vehicle,24,4,2,fwd,gas,29,ford,escape fwd,a,2016,18249
+22,small sport utility vehicle,25,4,2.5,fwd,gas,30,ford,escape fwd,a,2016,18249
+22,small sport utility vehicle,25,4,1.6,awd,gas,29,ford,escape awd,a,2016,19569
+21,small sport utility vehicle,23,4,2,awd,gas,28,ford,escape awd,a,2016,19569
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd,a,2017,20527
+23,small sport utility vehicle,26,4,1.5,fwd,gas,30,ford,escape fwd,a,2017,20527
+22,small sport utility vehicle,25,4,2,fwd,gas,29,ford,escape fwd,a,2017,20527
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd ffv,a,2017,20539
+20,small sport utility vehicle,23,4,2,awd,gas,27,ford,escape awd,a,2017,20826
+22,small sport utility vehicle,24,4,1.5,awd,gas,28,ford,escape awd,a,2017,20826
+23,small sport utility vehicle,26,4,1.5,fwd,gas,30,ford,escape fwd,a,2018,21587
+21,small sport utility vehicle,24,4,2,fwd,gas,28,ford,escape fwd,a,2018,21586
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd ffv,a,2018,21589
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd,a,2018,21587
+22,small sport utility vehicle,24,4,1.5,awd,gas,28,ford,escape awd,a,2018,22277
+20,small sport utility vehicle,23,4,2,awd,gas,27,ford,escape awd,a,2018,22276
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd ffv,a,2019,24768
+21,small sport utility vehicle,24,4,2.5,fwd,gas,29,ford,escape fwd,a,2019,24663
+22,small sport utility vehicle,25,4,2,fwd,gas,29,ford,escape fwd,a,2019,24628
+23,small sport utility vehicle,26,4,1.5,fwd,gas,30,ford,escape fwd,a,2019,24639
+22,small sport utility vehicle,24,4,1.5,awd,gas,28,ford,escape awd,a,2019,25111
+21,small sport utility vehicle,23,4,2,awd,gas,27,ford,escape awd,a,2019,25198
+27,small sport utility vehicle,30,3,1.5,fwd,gas,33,ford,escape fwd,a,2020,28344
+44,small sport utility vehicle,41,4,2.5,fwd,gas,37,ford,escape fwd hev,a,2020,28763
+23,small sport utility vehicle,26,4,2,awd,gas,31,ford,escape awd,a,2020,28666
+26,small sport utility vehicle,28,3,1.5,awd,gas,31,ford,escape awd,a,2020,28420
+43,small sport utility vehicle,40,4,2.5,4wd,gas,37,ford,escape awd hev,a,2020,27837
+43,small sport utility vehicle,41,4,2.5,fwd,gas,38,ford,escape fwd phev,a,2020,27628
+17,sport utility vehicle,19,6,3.5,fwd,gas,23,honda,pilot 2wd,a,2010,13574
+16,sport utility vehicle,18,6,3.5,awd,gas,22,honda,pilot 4wd,a,2010,14670
+17,sport utility vehicle,19,6,3.5,fwd,gas,23,honda,pilot 2wd,a,2011,15265
+16,sport utility vehicle,18,6,3.5,awd,gas,22,honda,pilot 4wd,a,2011,16628
+18,sport utility vehicle,20,6,3.5,fwd,gas,25,honda,pilot 2wd,a,2012,18202
+17,sport utility vehicle,20,6,3.5,awd,gas,24,honda,pilot 4wd,a,2012,19328
+18,small sport utility vehicle,20,6,3.5,fwd,gas,25,honda,pilot 2wd,a,2013,20277
+17,standard sport utility vehicle,20,6,3.5,awd,gas,24,honda,pilot 4wd,a,2013,20865
+18,small sport utility vehicle,20,6,3.5,fwd,gas,25,honda,pilot 2wd,a,2014,21440
+17,small sport utility vehicle,20,6,3.5,awd,gas,24,honda,pilot 4wd,a,2014,22005
+18,small sport utility vehicle,20,6,3.5,fwd,gas,25,honda,pilot 2wd,a,2015,22782
+17,small sport utility vehicle,20,6,3.5,awd,gas,24,honda,pilot 4wd,a,2015,23998
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,honda,pilot 2wd,a,2016,32597
+19,small sport utility vehicle,22,6,3.5,fwd,gas,27,honda,pilot 2wd,a,2016,32597
+19,small sport utility vehicle,22,6,3.5,awd,gas,26,honda,pilot 4wd,a,2016,35538
+18,small sport utility vehicle,21,6,3.5,awd,gas,25,honda,pilot 4wd,a,2016,35538
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,honda,pilot fwd,a,2017,27590
+19,small sport utility vehicle,22,6,3.5,fwd,gas,27,honda,pilot fwd,a,2017,27590
+19,small sport utility vehicle,22,6,3.5,awd,gas,26,honda,pilot awd,a,2017,29998
+18,small sport utility vehicle,21,6,3.5,awd,gas,26,honda,pilot awd,a,2017,29998
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,honda,pilot fwd,a,2018,31998
+19,small sport utility vehicle,22,6,3.5,fwd,gas,27,honda,pilot fwd,a,2018,31998
+19,small sport utility vehicle,22,6,3.5,awd,gas,26,honda,pilot awd,a,2018,33789
+18,small sport utility vehicle,21,6,3.5,awd,gas,26,honda,pilot awd,a,2018,33789
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,honda,pilot fwd,a,2019,34658
+19,small sport utility vehicle,22,6,3.5,fwd,gas,27,honda,pilot fwd,a,2019,34658
+19,small sport utility vehicle,22,6,3.5,awd,gas,26,honda,pilot awd,a,2019,36998
+18,small sport utility vehicle,21,6,3.5,awd,gas,26,honda,pilot awd,a,2019,36998
+20,small sport utility vehicle,23,6,3.5,fwd,gas,27,honda,pilot fwd,a,2020,37832
+19,small sport utility vehicle,22,6,3.5,fwd,gas,27,honda,pilot fwd,a,2020,37832
+19,small sport utility vehicle,22,6,3.5,awd,gas,26,honda,pilot awd,a,2020,39879
+18,small sport utility vehicle,21,6,3.5,awd,gas,26,honda,pilot awd,a,2020,39879
+22,sport utility vehicle,24,4,2.5,fwd,gas,28,toyota,rav4 2wd,a,2010,7591
+19,sport utility vehicle,22,6,3.5,fwd,gas,27,toyota,rav4 2wd,a,2010,8884
+21,sport utility vehicle,24,4,2.5,awd,gas,27,toyota,rav4 4wd,a,2010,9688
+19,sport utility vehicle,21,6,3.5,awd,gas,26,toyota,rav4 4wd,a,2010,10493
+21,sport utility vehicle,24,4,2.5,fwd,gas,28,toyota,rav4 2wd,a,2011,11690
+19,sport utility vehicle,22,6,3.5,fwd,gas,26,toyota,rav4 2wd,a,2011,11690
+21,sport utility vehicle,23,4,2.5,awd,gas,27,toyota,rav4 4wd,a,2011,12977
+19,sport utility vehicle,21,6,3.5,awd,gas,25,toyota,rav4 4wd,a,2011,12977
+21,sport utility vehicle,24,4,2.5,fwd,gas,28,toyota,rav4 2wd,a,2012,14495
+19,sport utility vehicle,22,6,3.5,fwd,gas,26,toyota,rav4 2wd,a,2012,14995
+21,sport utility vehicle,23,4,2.5,awd,gas,27,toyota,rav4 4wd,a,2012,16590
+19,sport utility vehicle,22,6,3.5,awd,gas,26,toyota,rav4 4wd,a,2012,16590
+78,sport utility vehicle,76,,,fwd,electricity,74,toyota,rav4 ev,a,2012,17256
+78,small sport utility vehicle,76,,,fwd,electricity,74,toyota,rav4 ev,a,2013,18988
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4 2wd,a,2013,17256
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2013,17891
+22,small sport utility vehicle,25,4,2.5,awd,gas,29,toyota,rav4 limited awd,a,2013,18498
+78,small sport utility vehicle,76,,,fwd,electricity,74,toyota,rav4 ev,a,2014,19256
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4,a,2014,18245
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2014,18666
+22,small sport utility vehicle,24,4,2.5,awd,gas,28,toyota,rav4 limited awd,a,2014,19245
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4,a,2015,19523
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2015,19898
+22,small sport utility vehicle,24,4,2.5,awd,gas,28,toyota,rav4 limited awd,a,2015,19999
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4 le/xle,a,2015,20122
+23,small sport utility vehicle,25,4,2.5,fwd,gas,29,toyota,rav4,a,2016,20187
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4 le/xle,a,2016,20348
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2016,19600
+22,small sport utility vehicle,24,4,2.5,awd,gas,28,toyota,rav4 limited awd/se awd,a,2016,19600
+34,small sport utility vehicle,32,4,2.5,awd,gas,30,toyota,rav4 hybrid awd,a,2016,20391
+23,small sport utility vehicle,25,4,2.5,fwd,gas,29,toyota,rav4,a,2017,23000
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4 le/xle,a,2017,22900
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2017,22900
+22,small sport utility vehicle,24,4,2.5,awd,gas,28,toyota,rav4 limited awd/se awd,a,2017,23844
+34,small sport utility vehicle,32,4,2.5,awd,gas,30,toyota,rav4 hybrid awd,a,2017,24132
+23,small sport utility vehicle,25,4,2.5,fwd,gas,29,toyota,rav4,a,2018,26533
+23,small sport utility vehicle,26,4,2.5,fwd,gas,30,toyota,rav4 le/xle,a,2018,27654
+22,small sport utility vehicle,25,4,2.5,awd,gas,28,toyota,rav4 awd,a,2018,26533
+22,small sport utility vehicle,24,4,2.5,awd,gas,28,toyota,rav4 limited awd/se awd,a,2018,28444
+34,small sport utility vehicle,32,4,2.5,awd,gas,30,toyota,rav4 hybrid awd,a,2018,29000
+26,small sport utility vehicle,30,4,2.5,fwd,gas,35,toyota,rav4,a,2019,32500
+25,small sport utility vehicle,28,4,2.5,awd,gas,33,toyota,rav4 awd,a,2019,32500
+27,small sport utility vehicle,30,4,2.5,awd,gas,34,toyota,rav4 awd,a,2019,33121
+41,small sport utility vehicle,40,4,2.5,awd,gas,38,toyota,rav4 hybrid awd,a,2019,31986
+27,small sport utility vehicle,30,4,2.5,fwd,gas,35,toyota,rav4,a,2020,38946
+28,small sport utility vehicle,30,4,2.5,fwd,gas,35,toyota,rav4,a,2020,38946
+25,small sport utility vehicle,28,4,2.5,awd,gas,33,toyota,rav4 awd,a,2020,39946
+27,small sport utility vehicle,29,4,2.5,awd,gas,33,toyota,rav4 awd,a,2020,39946
+41,small sport utility vehicle,40,4,2.5,awd,gas,38,toyota,rav4 hybrid awd,a,2020,39946
+25,small sport utility vehicle,27,4,2.5,awd,gas,32,toyota,rav4 awd trd offroad,a,2020,40122
+27,small sport utility vehicle,30,4,2.5,awd,gas,34,toyota,rav4 awd le,a,2020,40122
+22,sport utility vehicle,24,4,2.5,fwd,gas,27,nissan,rogue fwd,a,2010,7776
+21,sport utility vehicle,23,4,2.5,awd,gas,26,nissan,rogue awd,a,2010,8891
+22,sport utility vehicle,24,4,2.5,fwd,gas,28,nissan,rogue fwd,a,2011,8999
+22,sport utility vehicle,24,4,2.5,awd,gas,26,nissan,rogue awd,a,2011,9500
+23,sport utility vehicle,25,4,2.5,fwd,gas,28,nissan,rogue fwd,a,2012,10639
+22,sport utility vehicle,23,4,2.5,awd,gas,26,nissan,rogue awd,a,2012,11495
+23,small sport utility vehicle,25,4,2.5,fwd,gas,28,nissan,rogue fwd,a,2013,13995
+22,small sport utility vehicle,24,4,2.5,awd,gas,26,nissan,rogue awd,a,2013,13995
+25,small sport utility vehicle,28,4,2.5,fwd,gas,32,nissan,rogue fwd,a,2014,15174
+25,small sport utility vehicle,27,4,2.5,awd,gas,31,nissan,rogue awd,a,2014,16292
+23,small sport utility vehicle,25,4,2.5,fwd,gas,28,nissan,rogue select fwd,a,2014,15174
+22,small sport utility vehicle,24,4,2.5,awd,gas,27,nissan,rogue select awd,a,2014,16292
+26,small sport utility vehicle,28,4,2.5,fwd,gas,32,nissan,rogue fwd,a,2015,18180
+25,small sport utility vehicle,27,4,2.5,awd,gas,31,nissan,rogue awd,a,2015,20889
+23,small sport utility vehicle,25,4,2.5,fwd,gas,28,nissan,rogue select fwd,a,2015,18180
+22,small sport utility vehicle,24,4,2.5,awd,gas,26,nissan,rogue select awd,a,2015,20899
+26,small sport utility vehicle,28,4,2.5,fwd,gas,32,nissan,rogue fwd,a,2016,17990
+25,small sport utility vehicle,27,4,2.5,awd,gas,31,nissan,rogue awd,a,2016,17990
+26,small sport utility vehicle,29,4,2.5,fwd,gas,33,nissan,rogue fwd,a,2017,21687
+25,small sport utility vehicle,27,4,2.5,awd,gas,32,nissan,rogue awd,a,2017,22900
+33,small sport utility vehicle,34,4,2,fwd,gas,35,nissan,rogue hybrid fwd,a,2017,23968
+31,small sport utility vehicle,33,4,2,awd,gas,34,nissan,rogue hybrid awd,a,2017,23968
+25,small station wagon,28,4,2,fwd,gas,32,nissan,rogue sport fwd,a,2017,26200
+24,small station wagon,27,4,2,awd,gas,30,nissan,rogue sport awd,a,2017,26200
+26,small sport utility vehicle,29,4,2.5,fwd,gas,33,nissan,rogue fwd,a,2018,26700
+33,small sport utility vehicle,34,4,2,fwd,gas,35,nissan,rogue hybrid fwd,a,2018,28430
+25,small sport utility vehicle,27,4,2.5,awd,gas,32,nissan,rogue awd,a,2018,28430
+31,small sport utility vehicle,33,4,2,awd,gas,34,nissan,rogue hybrid awd,a,2018,28430
+25,small station wagon,28,4,2,fwd,gas,32,nissan,rogue sport fwd,a,2018,29532
+24,small station wagon,27,4,2,awd,gas,30,nissan,rogue sport awd,a,2018,29532
+26,small sport utility vehicle,29,4,2.5,fwd,gas,33,nissan,rogue fwd,a,2019,31433
+33,small sport utility vehicle,34,4,2,fwd,gas,35,nissan,rogue hybrid fwd,a,2019,32555
+25,small sport utility vehicle,27,4,2.5,awd,gas,32,nissan,rogue awd,a,2019,31433
+31,small sport utility vehicle,33,4,2,awd,gas,34,nissan,rogue hybrid awd,a,2019,3255
+25,small station wagon,28,4,2,fwd,gas,32,nissan,rogue sport,a,2019,36432
+24,small station wagon,27,4,2,awd,gas,30,nissan,rogue sport awd,a,2019,36432
+26,small sport utility vehicle,29,4,2.5,fwd,gas,33,nissan,rogue fwd,a,2020,39433
+25,small sport utility vehicle,27,4,2.5,awd,gas,32,nissan,rogue awd,a,2020,39433
+25,small station wagon,28,4,2,fwd,gas,32,nissan,rogue sport,a,2020,42322
+24,small station wagon,27,4,2,awd,gas,30,nissan,rogue sport awd,a,2020,42322
+15,sport utility vehicle,17,6,3.8,rwd,gas,20,jeep,wrangler 2wd,a,2010,16991
+15,sport utility vehicle,17,6,3.8,4wd,gas,19,jeep,wrangler 4wd,a,2010,18788
+15,sport utility vehicle,17,6,3.8,4wd,gas,19,jeep,wrangler 4wd,m,2010,18788
+15,sport utility vehicle,17,6,3.8,4wd,gas,19,jeep,wrangler 4wd,m,2011,19991
+15,sport utility vehicle,17,6,3.8,4wd,gas,19,jeep,wrangler 4wd,a,2011,19991
+17,sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2012,21990
+16,sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2012,22995
+17,sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2012,22995
+16,sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2012,23898
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2013,23898
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2013,23995
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2013,23995
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2013,24990
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2014,26338
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2014,26338
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2014,26338
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2014,26995
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2015,26995
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2015,28988
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2015,29995
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2015,29995
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2016,32888
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2016,32888
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2016,33997
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2016,33997
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2017,35920
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2017,35920
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2017,36666
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2017,36666
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,a,2018,39432
+17,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler 4wd,m,2018,39432
+16,small sport utility vehicle,18,6,3.6,4wd,gas,20,jeep,wrangler unlimited 4wd,a,2018,40322
+16,small sport utility vehicle,18,6,3.6,4wd,gas,21,jeep,wrangler unlimited 4wd,m,2018,40322
+18,small sport utility vehicle,20,6,3.6,4wd,gas,23,jeep,new wrangler unlimited 4wd,a,2018,40322
+17,small sport utility vehicle,19,6,3.6,4wd,gas,23,jeep,new wrangler unlimited 4wd,m,2018,40322
+17,small sport utility vehicle,20,6,3.6,4wd,gas,25,jeep,new wrangler 4wd,m,2018,39432
+18,small sport utility vehicle,20,6,3.6,4wd,gas,23,jeep,new wrangler 4wd,a,2018,39432
+23,small sport utility vehicle,24,4,2,4wd,gas,25,jeep,new wrangler 4wd,a,2018,39432
+22,small sport utility vehicle,22,4,2,4wd,gas,24,jeep,new wrangler unlimited 4wd,a,2018,43333
+23,small sport utility vehicle,24,4,2,4wd,gas,25,jeep,wrangler 4wd,a,2019,45444
+18,small sport utility vehicle,20,6,3.6,4wd,gas,23,jeep,wrangler 4wd,a,2019,45444
+17,small sport utility vehicle,20,6,3.6,4wd,gas,25,jeep,wrangler 4wd,m,2019,45444
+22,small sport utility vehicle,22,4,2,4wd,gas,24,jeep,wrangler unlimited 4wd,a,2019,45444
+18,small sport utility vehicle,20,6,3.6,4wd,gas,23,jeep,wrangler unlimited 4wd,a,2019,46333
+17,small sport utility vehicle,19,6,3.6,4wd,gas,23,jeep,wrangler unlimited 4wd,m,2019,46322
+18,small sport utility vehicle,20,6,3.6,4wd,gas,23,jeep,wrangler 4wd,a,2020,47000
+19,small sport utility vehicle,20,6,3.6,4wd,gas,22,jeep,wrangler unlimited 4wd,a,2020,47000
+18,small sport utility vehicle,20,6,3.6,4wd,gas,22,jeep,wrangler unlimited 4wd,a,2020,47000
+22,small sport utility vehicle,23,4,2,4wd,gas,24,jeep,wrangler 4wd,a,2020,47000
+17,small sport utility vehicle,20,6,3.6,4wd,gas,25,jeep,wrangler 4wd,m,2020,47000
+21,small sport utility vehicle,21,4,2,4wd,gas,22,jeep,wrangler unlimited 4wd,a,2020,47000
+21,small sport utility vehicle,21,4,2,4wd,gas,22,jeep,wrangler unlimited 4wd,a,2020,47000
+17,small sport utility vehicle,19,6,3.6,4wd,gas,23,jeep,wrangler unlimited 4wd,m,2020,47000
+22,small sport utility vehicle,25,6,3,4wd,diesel,29,jeep,wrangler unlimited 4wd,a,2020,47000
+21,small sport utility vehicle,21,4,2,4wd,gas,22,jeep,wrangler 4wd,a,2020,47000
+15,standard pickup truck,17,8,4.6,rwd,gas,21,ford,explorer sport trac 2wd,a,2010,14222
+14,standard pickup truck,16,6,4,rwd,gas,20,ford,explorer sport trac 2wd,a,2010,14222
+14,standard pickup truck,16,8,4.6,4wd,gas,19,ford,explorer sport trac 4wd,a,2010,14997
+13,standard pickup truck,15,6,4,4wd,gas,19,ford,explorer sport trac 4wd,a,2010,14997
+15,sport utility vehicle,17,8,4.6,rwd,gas,21,ford,explorer 2wd,a,2010,13654
+14,sport utility vehicle,16,6,4,rwd,gas,20,ford,explorer 2wd,a,2010,13654
+14,sport utility vehicle,16,8,4.6,4wd,gas,19,ford,explorer 4wd,a,2010,14233
+13,sport utility vehicle,15,6,4,4wd,gas,19,ford,explorer 4wd,a,2010,14223
+18,sport utility vehicle,20,6,3.5,fwd,gas,25,ford,explorer fwd,a,2011,14978
+18,sport utility vehicle,20,6,3.5,fwd,gas,25,ford,explorer fwd,a,2011,14978
+17,sport utility vehicle,19,6,3.5,4wd,gas,23,ford,explorer 4wd,a,2011,15995
+17,sport utility vehicle,19,6,3.5,4wd,gas,23,ford,explorer 4wd,a,2011,15995
+20,sport utility vehicle,23,4,2,fwd,gas,27,ford,explorer fwd,a,2012,16991
+18,sport utility vehicle,20,6,3.5,fwd,gas,25,ford,explorer fwd,a,2012,16991
+17,sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2012,18995
+20,standard sport utility vehicle,23,4,2,fwd,gas,27,ford,explorer fwd,a,2013,18287
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd ffv,a,2013,18387
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2013,18287
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2013,17995
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2013,17995
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2013,18287
+20,standard sport utility vehicle,23,4,2,fwd,gas,28,ford,explorer fwd,a,2014,19000
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2014,19000
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2014,18998
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd ffv,a,2014,18998
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2014,18998
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2014,19000
+20,standard sport utility vehicle,23,4,2,fwd,gas,27,ford,explorer fwd,a,2015,23000
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2015,23444
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2015,23444
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd ffv,a,2015,24333
+17,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2015,24564
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2015,24564
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2016,32991
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2016,32991
+19,standard sport utility vehicle,22,4,2.3,fwd,gas,27,ford,explorer fwd,a,2016,32991
+16,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd ffv,a,2016,34544
+16,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2016,34544
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2016,34554
+18,standard sport utility vehicle,21,4,2.3,awd,gas,26,ford,explorer awd,a,2016,34554
+19,standard sport utility vehicle,22,4,2.3,fwd,gas,27,ford,explorer fwd,a,2017,36911
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2017,36991
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2017,36991
+18,standard sport utility vehicle,21,4,2.3,awd,gas,25,ford,explorer awd,a,2017,37716
+16,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd,a,2017,37716
+16,standard sport utility vehicle,19,6,3.5,awd,gas,23,ford,explorer awd ffv,a,2017,37776
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2017,37776
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2018,40650
+19,standard sport utility vehicle,22,4,2.3,fwd,gas,27,ford,explorer fwd,a,2018,40650
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2018,40650
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd ffv,a,2018,40990
+18,standard sport utility vehicle,21,4,2.3,awd,gas,25,ford,explorer awd,a,2018,40990
+16,standard sport utility vehicle,19,6,3.5,awd,gas,22,ford,explorer awd,a,2018,40990
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2018,40650
+19,standard sport utility vehicle,22,4,2.3,fwd,gas,27,ford,explorer fwd,a,2019,41998
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer fwd,a,2019,41998
+17,standard sport utility vehicle,20,6,3.5,fwd,gas,24,ford,explorer 2wd ffv,a,2019,42110
+18,standard sport utility vehicle,21,4,2.3,awd,gas,25,ford,explorer awd,a,2019,42110
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd ffv,a,2019,43499
+16,standard sport utility vehicle,18,6,3.5,awd,gas,22,ford,explorer awd,a,2019,43499
+16,standard sport utility vehicle,19,6,3.5,awd,gas,22,ford,explorer awd,a,2019,43499
+21,standard sport utility vehicle,24,4,2.3,rwd,gas,28,ford,explorer rwd,a,2020,"44,599"
+20,standard sport utility vehicle,23,4,2.3,4wd,gas,27,ford,explorer awd,a,2020,44599
+18,standard sport utility vehicle,20,6,3,4wd,gas,24,ford,explorer awd,a,2020,44599
+16,standard sport utility vehicle,19,6,3.3,4wd,gas,23,ford,explorer ffv awd,a,2020,44994
+27,standard sport utility vehicle,28,6,3.3,rwd,gas,29,ford,explorer hev rwd,a,2020,45995
+23,standard sport utility vehicle,25,6,3.3,4wd,gas,26,ford,explorer hev awd,a,2020,45995
